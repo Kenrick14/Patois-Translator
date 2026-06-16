@@ -50,14 +50,14 @@
 {
     "input":"Dis wan swiit im.",
     "target": "This one pleases her.",
-    "domain": "Conversation",
+    "domain": "conversation",
     "contains_slang":true,
     "reviewed":true
 }
 {
     "input":"Im no lov dem ting deh?",
     "target": "Doesn't she like those things?",
-    "domain": "Conversation",
+    "domain": "conversation",
     "contains_slang":false,
     "reviewed":true
 }
@@ -85,7 +85,7 @@
 {
     "input":"Wi wuda mos hafi riich soon!",
     "target": "We really ought to arrive soom!",
-    "domain": "Conversation",
+    "domain": "conversation",
     "contains_slang":false,
     "reviewed":true
 }

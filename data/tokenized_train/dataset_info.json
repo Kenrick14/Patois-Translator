@@ -1,0 +1,45 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "input_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "target_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "domain": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "contains_slang": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "labels": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
