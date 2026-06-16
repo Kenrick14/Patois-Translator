@@ -1,0 +1,1003 @@
+{
+    "input":"",
+    "target": "",
+    "domain": "",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"Father manley fight and mek black pickney go a St Hilda's school, where no black pickney couldn't ben go first time.",
+    "target": "Manley fought so that black children could go to St Hilda's school, where no black children had been able to go in the old days",
+    "domain": "conversation",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"Him lucky we never nyam him too, for we did done cook already.",
+    "target": "It's lucky we didn't eat it too, for we had already cooked.",
+    "domain": "food",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"Dem deh deh, till she cook and we nyam done.",
+    "target": "They stayed there until she had cooked and we had finished eating.",
+    "domain": "food",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"If yu luk pan we itla did du ina Jaamani.",
+    "target": "If you consider what Hitler did in Germany.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Ten Tauzin yiers ago dem did penichriet aal dem ting.",
+    "target": "Ten thousand years ago they already understood all those things.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Dat manggo chrii dier, notn neva du it.",
+    "target": "Nothing has ever happened to that mango tree",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Im no biznis huu it kyach.",
+    "target": "He didn't care who got shot.",
+    "domain": "conversation",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"Dis wan swiit im.",
+    "target": "This one pleases her.",
+    "domain": "Conversation",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"Im no lov dem ting deh?",
+    "target": "Doesn't she like those things?",
+    "domain": "Conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Dem mosi nuo.",
+    "target": "They must have known.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Mi hafi gaan.",
+    "target": "I must leave.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Dem kuda kyan bai a bred.",
+    "target": "They would be able to buy a loaf of bread.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Wi wuda mos hafi riich soon!",
+    "target": "We really ought to arrive soom!",
+    "domain": "Conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"My stepfaada had was to tell him not to come back to our yard.",
+    "target": "My stepfather had to tell him not to come back to where we lived.",
+    "domain": "conversation",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"Him do it because him wanted was to control di people living in di underworld.",
+    "target": "He did it because he wanted to control the people living in the underworld.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"She don't fight woman; a pure man she fight.",
+    "target": "She doesn't fight women; she only fights men.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Up to now, Sprangler don't come back in di area.",
+    "target": "Until this day Sprangler has not come back into the area.",
+    "domain": "conversation",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"Him may leave today to go out to all di countryside, far district, and don't come back tomorrow.",
+    "target": "He may leave today to go out all over the countyside, and not come back tomorrow.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Shut unu ai, na!",
+    "target": "Shut your eyes, won't you?",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"A di bridj im a taak, duont? Duont a di bridj im a taak?",
+    "target": "It's the bridge he's talking about, isn't it? Isn't it the bridge he's talking about?",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"No bada gwaan bad.",
+    "target": "Do not misbehave.",
+    "domain": "conversation",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"Den yu a go kom tinait?",
+    "target": "Then you're going to come tonight?",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"No mos!",
+    "target": "Of course!",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Don't me done tell yuh seh me na go do nutten again.",
+    "target": "Haven't I told you that i'm not going to do anything further?",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Nabadii na a kom ina mai aus.",
+    "target": "Nobody is going to come into my house.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"If i kyan only get word to him.",
+    "target": "If I could only get word to him.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Mama kyan catch us because we run.",
+    "target": "Mama couldn't catch us becasue we ran.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Ebry day da fishing day, but ebry day no fe catch fish.",
+    "target": "Every day is a day for fishing, but you won't catch fish every day.",
+    "domain": "quote",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"A swel it swel, luk da.",
+    "target": "It certainly swelled up, look there.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"A bigfut dem gi mi.",
+    "target": "Someone gave me the bigfoot.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"luk hou a krievm im krievm.",
+    "target": "See how greedy she is!",
+    "domain": "conversation",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"A mos im mosi gaan aredi.",
+    "target": "He must have left already.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"A gaan im mosi gaan aredi.",
+    "target": "He must have left already.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"She waan mi fi come back cause a she one deh deh and she fraid.",
+    "target": "She wanted me to return for she alone was there and she was afraid.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"A wisaid unu a go go luk fi im? A wichpaat im de ya?",
+    "target": "Where are you guys going to look for him? Where is he?",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Afta it kom oot a di fut, a chrii die schriet hit bon mi.",
+    "target": "After it came out of my foot, it burned me for three days straight.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Lord God! A weh a go tell me madda seh?",
+    "target": "Lord God! What am I going to tell my mother?",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Yes, Brer Puss, all di weddin' you was a come a yahso, you was a come eat out di butta!",
+    "target": "Yes Brother Puss, even the weddings you were coming to here, you were om;y coming to finish eating the butter!",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Mi ongl se im did shaat!",
+    "target": "I only said he was short!",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Yuh wife cook yuh dinner and it deh deh a cold.",
+    "target": "Your wife cooked your dinner and it sits there getting cold.",
+    "domain": "food",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Dem musn kom ko nobadii no di de an tiicha no da ya.",
+    "target": "They musn't come because nobody is there and the teacher is not here.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Yu hav wan sinting niem ruolin kyaaf.",
+    "target": "There is something called rolling calf.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Him start tell di cousins all sort a someting.",
+    "target": "He started to tell the cousins all kinds of things.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"She only do half day work fi come fi follow him go airport.",
+    "target": "She only worked a half day in order to come here to follow him to the airport.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"I hard fi kraas di riba.",
+    "target": "It's hard to cross the river.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Di riba haad fi kraas.",
+    "target": "The river is hard to cross.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Jan iizi fi krai.",
+    "target": "John cries easily.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"I iizi fi Jan fi krai.",
+    "target": "It is easy for John to cry.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Him fraid fi grab it, for him fraid me tear it.",
+    "target": "He was afraid to grab it, for he was afraid I would tear it.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Him all swear seh him was going to tell me.",
+    "target": "He even swore that he was going to tell me.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Dat mean him deh go tek set pon me.",
+    "target": "That means that he is going to become malignly fixated upon me.",
+    "domain": "conversation",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"Yu kyaan kom iin ya siev yu pie yu fier.",
+    "target": "You can't come in here unless you pay your fare.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"She just tell him dat tru him leggo di secret.",
+    "target": "She just told him that because he let out her secret.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Weneva taim dat im kom, im gwain plie a trik.",
+    "target": "When she comes she is going to play a prank.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"No kya we yu go yu naa fain non.",
+    "target": "No matter where you go, you won't find any.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Him ron laka se dem set daag ata im.",
+    "target": "He ran as if they had set dogs after him.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Dis naga man come come collar me de same like a say me da him sexis.",
+    "target": "This black man comes and collars me just as if I were the same sex as he.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Im tek naif kot mi.",
+    "target": "He cut me with a knife.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Kya di buk kom gi mi.",
+    "target": "Bring the book to me.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Manggo de a yaad paas plenti.",
+    "target": "A great many mangoes are in the yard.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Im waan mi fi go kya im kom.",
+    "target": "He wants me to bring it.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Mi a go town.",
+    "target": "I am going to town.",
+    "domain": "transportation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Wah gwaan?",
+    "target": "What's going on?",
+    "domain": "greeting",
+    "contains_slang":true,
+    "reviewed":true
+}{
+    "input":"Mi rate di food",
+    "target": "I like the food",
+    "domain": "food",
+    "contains_slang":true,
+    "reviewed":true
+}{
+    "input":"Di pickney dem happy",
+    "target": "The children are happy",
+    "domain": "family",
+    "contains_slang":true,
+    "reviewed":true
+}{
+    "input":"Yu miin him a wena mek naiz mam?",
+    "target": "Do you mean the one that was making noise, ma'am?",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"We have a place weh we call Atom Hole.",
+    "target": "There is a a place that we call Atom Hole.",
+    "domain": "location",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Mi rispek ar tu di dort we shi waak pan, Mada.",
+    "target": "I respect her to the ground that she walks on, Mother.",
+    "domain": "conversation",
+    "contains_slang":true,
+    "reviewed":true
+}{
+    "input":"Him say me one one hog me have me fi give you.",
+    "target": "He said I should give you the only hog I have.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Mi bring kluoz fi fi uman put aan.",
+    "target": "I've brought clothes for the woman to put on.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Di uman we dem tiif ar biebi gaan a stieshan.",
+    "target": "The woman that they stole her baby from has gone to the station.",
+    "domain": "location",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Di uman huufa biebi dem tiif gaan a stieshan.",
+    "target": "The woman whose baby they stole has gone to the station.",
+    "domain": "location",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Mi yu si ya, mi kyaan bada wid dem.",
+    "target": "I whom you see here, I can't bother with them.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Unu kudn bloodclaat gi i man chrii onjid dala.",
+    "target": "Nobody could even give the man three hundred damn dollars.",
+    "domain": "money",
+    "contains_slang":true,
+    "reviewed":true
+}{
+    "input":"Ai an ai taakin tu di ai ier.",
+    "target": "I Have been talking to this man.",
+    "domain": "conversation",
+    "contains_slang":true,
+    "reviewed":true
+}{
+    "input":"Black bud lef fe im ticks fe pick fe go pick cow own.",
+    "target": "Black bird leaves his own ticks to go pick and pick cow's.",
+    "domain": "animals",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Mi nuo di fuor touzin mi mek a fi mi!",
+    "target": "I know the four thousand I made is mine!",
+    "domain": "money",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Den no fi me work me put yuh inna?",
+    "target": "Then wasn't it my job I got for you?",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Me did a carry a pan a water from di next door yard for dem did lock off fi we own again.",
+    "target": "I used to carry a pan of water from the house next door, for they had shut off ours again.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Jos bikaaz evribadi wena go luk pan fi Patsi uon.",
+    "target": "Just because everybody was looking at Patsy's.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Mek wi go ina owa pakit an bai di lika oot a wi pakit!",
+    "target": "Let's reach in our pockets and buy the liquor out of our own pockets.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Mi waak kom dong a dis ais kriim plees, likl bit batamsaid di hoos.",
+    "target": "I walked down to this ice cream place, a little below the house.",
+    "domain": "location",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"So wen she go long, she see so so head in de road.",
+    "target": "As she went along, she saw just a head in the road.",
+    "domain": "location",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Dem miit op dem wan aneda pan di ruod.",
+    "target": "They met each other on the road.",
+    "domain": "location",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"dis ya ting.",
+    "target": "this thing.",
+    "domain": "phrase",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"dis ting ya.",
+    "target": "this thing.",
+    "domain": "phrase",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"da ting ya",
+    "target": "this thing.",
+    "domain": "phrase",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"dem ya ting.",
+    "target": "these things.",
+    "domain": "phrase",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"dem ting ya.",
+    "target": "these things.",
+    "domain": "phrase",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"dat de ting.",
+    "target": "that thing.",
+    "domain": "phrase",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"dat ting de.",
+    "target": "that thing.",
+    "domain": "phrase",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"da ting de.",
+    "target": "that thing.",
+    "domain": "phrase",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"dem de ting.",
+    "target": "those things.",
+    "domain": "phrase",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"dem ting de.",
+    "target": "those things.",
+    "domain": "phrase",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"So, dem bwai dem kom an dem fling tuu brik an tuu bakl.",
+    "target": "So those guys came and threw a few bricks and a few bottles.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Hou dem spiik da wie de an wii spiik da wie ya?",
+    "target": "How come they speak that way, and we speak this way?",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"A dis yah kinda life yuh want? Look pon yuh!",
+    "target": "Is this the kind of like you want? Look at you!",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"If we did ever see yuh dat deh night, we wuda mek police beat yuh.",
+    "target": "If we had seen you that night, we would have let the police beat you.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Wel natchtali! Mi fiil di anz a dopi, man.",
+    "target": "Well, naturallu! I have felt the hands of ghosts, man.",
+    "domain": "conversation",
+    "contains_slang":true,
+    "reviewed":true
+}{
+    "input":"Me aunty never like we to mix wid we faada family.",
+    "target": "My aunt didn't like us to mingle with our father's family.",
+    "domain": "family",
+    "contains_slang":true,
+    "reviewed":true
+}{
+    "input":"She never like we fi go down to mi Granny, me faada madda.",
+    "target": "She didn't like us to go visit my grandmother, my father's mother.",
+    "domain": "family",
+    "contains_slang":true,
+    "reviewed":true
+}{
+    "input":"Di honggri ena wip me.",
+    "target": "Hunger was whipping me.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Dat lov, dat ziyl, wa wi did av fors taim, yu don hav it agen.",
+    "target": "That love, that zeal, we had in the old days, you don't find it anymore.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"If me sista want a money, she would have to go and meet him.",
+    "target": "If my sister wanted money, she would have to fo and meet him.",
+    "domain": "family",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Lef dem chiljren op a di hoos.",
+    "target": "Leave those kids at the house.",
+    "domain": "family",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"yav a glas choch op de.",
+    "target": "There's a glass church up there.",
+    "domain": "location",
+    "contains_slang":false,
+    "reviewed":true
+}{
+    "input":"Bad man dem taim de!",
+    "target": "There were bad guys around in those days.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Police shoot Starman inna dance, dem rain down gunshot pon him.",
+    "target": "The police shot Starman at a dance, They rained down gunshots on him.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Tings noh bright, bickle noh nuff!",
+    "target": "Things aren't easy, there's not much food!",
+    "domain": "food",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"Afta a no iivn nomba rimemba di nuots dem agen.",
+    "target": "I don't even remember the notes anymore.",
+    "domain": "music",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Fi dem pieren mait muor richa dan mai pieren, so dem mait av muor beta fasilitiz dem.",
+    "target": "Their parents might be richer than mine, so they might have better facilities.",
+    "domain": "family",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Frenz an a uol dem, neva falo frenz an a uol.",
+    "target": "Friends in general, never follow friends in general.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Some a di woman dem is single woman.",
+    "target": "Some of the women are single women.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"None a di member dem no do notten bout it.",
+    "target": "None of the members did anything about it.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Me pack up me two sinting dem inna two big barrel.",
+    "target": "I packed up my few possessions in two big barrels.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Di man dem in my district is not easy.",
+    "target": "The men of my district can be truculent.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Miss Waaka dem laaf afta im.",
+    "target": "Miss Walker and the others laughed at him.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Mi faati plenti aredi!",
+    "target": "I am well over forty already!",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"I lub pickney, but I don't lib wid dem.",
+    "target": "I love children, but I don't live with them.",
+    "domain": "conversation",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"Fowl neber lick him own pickney too hot.",
+    "target": "A fowl never strikes her own children too hard.",
+    "domain": "animal",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"Good bwoy sore toe neber well.",
+    "target": "A good boy's sore toe is never well.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Cock mout kill cock.",
+    "target": "Cock's mouth kill cock.",
+    "domain": "animal",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"An im a ron op tu di bed.",
+    "target": "And she is running up to the bed.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Wen dem de kot di trii.",
+    "target": "When are they cutting the tree.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Di siem oul wich gwain in.",
+    "target": "The same old witch is going in.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Mi naa taak.",
+    "target": "I am not talking.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Dehn aalzwie a mekop niuu wod.",
+    "target": "They are always making up new words.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+
+{
+    "input":"Wa yu a du doun de?",
+    "target": "What are you doing down there?",
+    "domain": "location",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"A dis a ya sistim.",
+    "target": "It is this system.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"A yu duu mi so!",
+    "target": "You're doing me like that!",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"A we unu de go?",
+    "target": "Where are you all going?",
+    "domain": "location",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Wat a yu?",
+    "target": "What are you?",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+
+{
+    "input":"Sens Jumiekan a wahn huoral langwij.",
+    "target": "Since Jamaican is an oral language.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Andro naa piik.",
+    "target": "Andrew never peeks.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Hin de ded!",
+    "target": "He is dying!",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"we dem de sie.",
+    "target": "What are they saying?",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Andro nuo de go hapm.",
+    "target": "Andrew knows it is going to happen.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"Wen wilyam de pan di brink.",
+    "target": "When william is on the brink.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"De nuo we de don.",
+    "target": "They know what they are doing.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+
+{
+    "input":"Di trii gyal gwain in.",
+    "target": "The three girls are going in.",
+    "domain": "conversation",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"dem wor iitin.",
+    "target": "They were eating.",
+    "domain": "food",
+    "contains_slang":false,
+    "reviewed":true
+}
+{
+    "input":"",
+    "target": "",
+    "domain": "",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"",
+    "target": "",
+    "domain": "",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"",
+    "target": "",
+    "domain": "",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"",
+    "target": "",
+    "domain": "",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"",
+    "target": "",
+    "domain": "",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"",
+    "target": "",
+    "domain": "",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"",
+    "target": "",
+    "domain": "",
+    "contains_slang":true,
+    "reviewed":true
+}
+{
+    "input":"",
+    "target": "",
+    "domain": "",
+    "contains_slang":true,
+    "reviewed":true
+}
