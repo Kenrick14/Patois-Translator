@@ -1,11 +1,4 @@
 {
-    "input":"",
-    "target": "",
-    "domain": "",
-    "contains_slang":true,
-    "reviewed":true
-}
-{
     "input":"Father manley fight and mek black pickney go a St Hilda's school, where no black pickney couldn't ben go first time.",
     "target": "Manley fought so that black children could go to St Hilda's school, where no black children had been able to go in the old days",
     "domain": "conversation",
@@ -943,61 +936,5 @@
     "target": "They were eating.",
     "domain": "food",
     "contains_slang":false,
-    "reviewed":true
-}
-{
-    "input":"",
-    "target": "",
-    "domain": "",
-    "contains_slang":true,
-    "reviewed":true
-}
-{
-    "input":"",
-    "target": "",
-    "domain": "",
-    "contains_slang":true,
-    "reviewed":true
-}
-{
-    "input":"",
-    "target": "",
-    "domain": "",
-    "contains_slang":true,
-    "reviewed":true
-}
-{
-    "input":"",
-    "target": "",
-    "domain": "",
-    "contains_slang":true,
-    "reviewed":true
-}
-{
-    "input":"",
-    "target": "",
-    "domain": "",
-    "contains_slang":true,
-    "reviewed":true
-}
-{
-    "input":"",
-    "target": "",
-    "domain": "",
-    "contains_slang":true,
-    "reviewed":true
-}
-{
-    "input":"",
-    "target": "",
-    "domain": "",
-    "contains_slang":true,
-    "reviewed":true
-}
-{
-    "input":"",
-    "target": "",
-    "domain": "",
-    "contains_slang":true,
     "reviewed":true
 }
