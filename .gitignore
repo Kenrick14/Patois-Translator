@@ -1,0 +1,11 @@
+venv/
+
+__pycache__/
+*.pyc
+*.pyo
+
+results/
+logs/
+patois-translator-model/
+
+data/
